@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flaybird</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        #mycanvas {
+            border: 3px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas class="" id="mycanvas" bindtouchstart="" bindtouchmove="" bindtouchend="" bindtouchcancel="" bindlongtap=""
+        binderror=""></canvas>
+</body>
+<script src="./game.js"></script>
+<script src="./background.js"></script>
+<script src="./land.js"></script>
+<script src="./pipe.js"></script>
+<script src="./brid.js"></script>
+<script src="./sceneManger.js"></script>
+<script>
+    var game = new Game({
+        id: "mycanvas",
+        RjsonUrl: "./R.json",
+    })
+</script>
+
+</html>

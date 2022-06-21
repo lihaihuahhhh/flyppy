@@ -1,0 +1,124 @@
+{
+    "images": [
+        {
+            "name": "bg_day",
+            "url": "R/bg_day.png"
+        },
+        {
+            "name": "bg_night",
+            "url": "R/bg_night.png"
+        },
+        {
+            "name": "bird0_0",
+            "url": "R/bird0_0.png"
+        },
+        {
+            "name": "bird0_1",
+            "url": "R/bird0_1.png"
+        },
+        {
+            "name": "bird0_2",
+            "url": "R/bird0_2.png"
+        },
+        {
+            "name": "bird1_0",
+            "url": "R/bird1_0.png"
+        },
+        {
+            "name": "bird1_1",
+            "url": "R/bird1_1.png"
+        },
+        {
+            "name": "bird1_2",
+            "url": "R/bird1_2.png"
+        },
+        {
+            "name": "bird2_0",
+            "url": "R/bird2_0.png"
+        },
+        {
+            "name": "bird2_1",
+            "url": "R/bird2_1.png"
+        },
+        {
+            "name": "bird2_2",
+            "url": "R/bird2_2.png"
+        },
+        {
+            "name": "blink_00",
+            "url": "R/blink_00.png"
+        },
+        {
+            "name": "land",
+            "url": "R/land.png"
+        },
+        {
+            "name": "pipe_down",
+            "url": "R/pipe_down.png"
+        },
+        {
+            "name": "pipe_up",
+            "url": "R/pipe_up.png"
+        },
+        {
+            "name": "shuzi0",
+            "url": "R/font_048.png"
+        },
+        {
+            "name": "shuzi1",
+            "url": "R/font_049.png"
+        },
+        {
+            "name": "shuzi2",
+            "url": "R/font_050.png"
+        },
+        {
+            "name": "shuzi3",
+            "url": "R/font_051.png"
+        },
+        {
+            "name": "shuzi4",
+            "url": "R/font_052.png"
+        },
+        {
+            "name": "shuzi5",
+            "url": "R/font_053.png"
+        },
+        {
+            "name": "shuzi6",
+            "url": "R/font_054.png"
+        },
+        {
+            "name": "shuzi7",
+            "url": "R/font_055.png"
+        },
+        {
+            "name": "shuzi8",
+            "url": "R/font_056.png"
+        },
+        {
+            "name": "shuzi9",
+            "url": "R/font_057.png"
+        },
+        {
+            "name": "title",
+            "url": "R/title.png"
+        },
+        {
+            "name": "button_play",
+            "url": "R/button_play.png"
+        },
+        {
+            "name": "tutorial",
+            "url": "R/tutorial.png"
+        },
+        {
+            "name": "score_panel",
+            "url": "R/score_panel.png"
+        },
+        {
+            "name": "new",
+            "url": "R/new.png"
+        }
+    ]
+}
